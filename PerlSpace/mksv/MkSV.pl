@@ -12,7 +12,7 @@
 ## This script will create the Stream & view (Snapshot & Dynamic) on requested
 ## project.
 ###############################################################################
-##				Release History
+##				Release History . Dev Branch
 ##=============================================================================
 ##	04/16/2013 Suhas S Malusare : Initial Release of Version 1.0
 ##=============================================================================
